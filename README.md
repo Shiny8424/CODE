@@ -21,7 +21,7 @@ it will be optimized for search engines, mobile devices, and provide comprehensi
 - **Reliable Customer Support:** Provide multiple customer support options, including live chat and an FAQ section.Ensure easy access to contact information.
 
 
-##Technologies Used
+###Technologies Used
 - **HTML** Its a code used for creating  structure web page and its content
 - **CSS** Is used for styling and layouting the web page
 - **JAVASCRIPT** it will create a dynamic content for the website
